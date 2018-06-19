@@ -13,6 +13,6 @@ cd server
 yarn
 ```
 
-3. build the client side app `yarn build`
+3. build the client side app `yarn build` from project root
 
-4. start the server with ssr `yarn start-ssr`
+4. start the server with ssr `yarn start-ssr` from project root

@@ -1,10 +1,10 @@
 # Getting started
 
-1. clone the repo `git clone git@github.com:shalkam/luxurypresence-challenge.git`
+1. clone the repo `git@github.com:shalkam/cra-ssr-example.git`
 
 2. install dependencies
 ```
-cd luxurypresence-challenge
+cd cra-ssr-example
 yarn
 ```
 then
